@@ -4,5 +4,5 @@
 !.xinitrc
 !.zshrc
 !makefile
-!scripts/
+!.scripts/*
 !.local/share/fonts
