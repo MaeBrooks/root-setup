@@ -5,4 +5,8 @@
 !.zshrc
 !makefile
 !.scripts/*
+!.config/
+!.config/nvim
+!.config/wm
+!.config/kitty
 !.local/share/fonts
