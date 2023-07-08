@@ -2,5 +2,5 @@
 	path = .config/nvim
 	url = git@github.com:MaeBrooks/nvim.git
 [submodule "/home/mae/.config/wm"]
-	path = /home/mae/.config/wm
+	path = .config/wm
 	url = git@github.com:MaeBrooks/wm.git
